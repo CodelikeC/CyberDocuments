@@ -3,7 +3,7 @@
 
 # I>C++
 - The first basic programming language if you want to enter Cyber Security
-- The fundamentals of networking and TCP/IP + UDP protocols.
+- The fundamentals of networking and libraries / API.
 - Close to Assembly and compiler, operating systems. 
 
 # II>JavaScript

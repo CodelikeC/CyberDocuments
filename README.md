@@ -14,7 +14,7 @@
 - Incredible interactive with terminal/OS
 - Simple and fast syntax, easy to learn.
 
-# IV> GOLang 
+# IV> GOLang and Rust
 - Close to C++, easy to catch up if you understand fundamentals of C/C++
 - Simple syntax. 
 
